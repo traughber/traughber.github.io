@@ -2,7 +2,8 @@
 published: true
 ---
 
-# My First Jekyll Post
+Jekyll Post 1
+=============
 
 I'm playing around with Jekyll through GitHub Pages.  This could prove to be a pretty cool way to publish a website easily.  At first it doesn't seem easy, but **so far so good**.
 
