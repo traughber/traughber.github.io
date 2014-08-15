@@ -1,8 +1,3 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
-
 My Code
 =======
 
